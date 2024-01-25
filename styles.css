@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700&display=swap');
+
+body {
+  background-color: #f3e6d8;
+}
+
+.headings {
+  font-family: 'Young Serif', serif;
+  font-size: 28px;
+  color: #854632;
+}
+
+.title {
+  font-family: 'Young Serif', serif;
+  font-size: 38px;
+  color: #302d2c;
+}
+
+.prep-time {
+  font-family: 'Outfit', sans-serif;
+  font-size: 21px;
+  color: #7b284f;
+}
+
+.text {
+  font-family: 'Outfit', sans-serif;
+  font-size: 16px;
+}
+
+.grey-text {
+  color: #302d2c;
+}
+
+strong {
+  color: #302d2c
+}
+
+img {
+  width: 630px;
+  height: 250px;
+  border-radius: 25px;
+}
+
+.container {
+  transform: scale(0.8);
+  border: solid 0px;
+  width: 630px;
+  padding: 30px;
+  margin: auto;
+  border-radius: 25px;
+  background-color: white;
+}
+
+.prep {
+  background-color: #fff5fa;
+  border-radius: 25px;
+  padding: 5px;
+  padding-left: 30px;
+}
+
+.bullet-points {
+  padding-left: 18px;
+}
+
+li {
+  padding-left: 15px;
+  line-height: 30px;
+}
+
+.red-strong {
+  color: #7b284f;
+  font-family: 'Outfit', sans-serif;
+}
+
+table, tr, td {
+  border: 0.5px solid;
+  border-left: 0px;
+  border-right: 0px;
+  border-top: 0px;
+  width: 630px;
+  border-collapse: collapse;
+  line-height: 40px;
+  padding: ;
+}
